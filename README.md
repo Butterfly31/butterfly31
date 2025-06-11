@@ -35,7 +35,7 @@
       <p>⭐ Github Star ⭐<br>
       📲 Multimedia and Web Developer<br>
       ✏️ UX Designer<br>
-      ❤ A passionate Self-taught Front-end developer</p>
+      ❤ A passionate  Front-end developer</p>
     </td>
     <td>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJhZ216c21kNzd5YWhidDQ5bzQ2dnYyYW15bzAxYXdqc3Y5eXJjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72F7RrTPW6jymXew/giphy.gif" width="400" alt="Girls who code">
